@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "TDA7294-rescue")(type "Legacy")(uri "${KIPRJMOD}/TDA7294-rescue.lib")(options "")(descr ""))
+)
